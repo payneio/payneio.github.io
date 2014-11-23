@@ -1,0 +1,12 @@
+# Site settings
+title: Paul Payne
+email: paul@payne.io
+description: > # this means to ignore newlines until "baseurl:"
+  Papers, articles, reviews and essays
+baseurl: ""
+url: "http://payneio.github.io"
+github_username: payneio
+
+# Build settings
+markdown: kramdown
+permalink: /:title
